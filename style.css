@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+}
+header h1{
+    width: 100%;
+    float: left;
+    height: 30%;
+    margin-top: 0%;
+    background-color: rgb(177, 11, 11);
+}
+header div{
+    margin-left: 550px;
+}
+header div img{
+    width: 50px;
+    height: auto;
+    float: left;
+    margin-top: -3%;
+    margin-left: 10px;
+}
+header nav{
+    width: 100%;
+    float: left;
+    margin-top: -2%;
+    background-color: rgb(151, 5, 5);
+}
+header nav ul li{
+    margin-right: 78%;
+}
+header nav ul li a{
+    margin-right: 0%;
+}
