@@ -1,0 +1,19 @@
+header{
+width: 100%;
+background-color: #fd1b1b;
+}
+header img{
+    margin-left: 32%;
+    width: 35%;
+}
+header div{
+    position: relative;
+    margin-top: -7%;
+}
+header div img{
+
+    margin-left: 1%;
+    width: 5%;
+    display: block;
+    float: right;
+}
