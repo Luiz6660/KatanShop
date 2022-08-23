@@ -9,6 +9,7 @@ header img{
 header div{
     position: relative;
     margin-top: -7%;
+    margin-right: 3%;
 }
 header div img{
 
@@ -16,4 +17,17 @@ header div img{
     width: 5%;
     display: block;
     float: right;
+}
+.sub-header{
+    margin-top: 10%;
+    float: left;
+}
+ul{
+    background: darkgray;
+    padding: 20px;
+}
+ul li{
+    background: darkgray;
+    color: gray;
+    margin: 5px;
 }
