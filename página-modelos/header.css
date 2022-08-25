@@ -18,16 +18,31 @@ header div img{
     display: block;
     float: right;
 }
-.sub-header{
-    margin-top: 10%;
+header nav{
+    width: 100%;
     float: left;
+    margin-top: 7%;
+    background: gray;
+}
+header nav div{
+    background-color: gray;
+    float: left;
+    margin-left: -2%;
+    margin-right: -2%;
+}
+header nav ul li{
+    margin-right: 25%;
+    height: 100%;
+}
+header nav ul li a{
+    margin-right: 0%;
+    text-align: center;
 }
 ul{
-    background: darkgray;
-    padding: 20px;
+    padding: 0px;
 }
 ul li{
     background: darkgray;
     color: gray;
-    margin: 5px;
+    margin-left: 30%;
 }
